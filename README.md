@@ -28,6 +28,7 @@ Using the Telco Customer Churn data from Kaggle, I explore the accuracy of 4 mac
 * Logistic Regression (SMOTE) Prediction<br>
 * Naive Bayes Prediction<br>
 * SVM Classifier Linear Prediction<br>
+
 I will compare the model's prediction against the same set of data for accuracy comparison.<br>
 
 Assuming that the company wish to retain 90% NRR for this particular telco, I will explore the impact of each model on:<br>
@@ -35,6 +36,7 @@ Assuming that the company wish to retain 90% NRR for this particular telco, I wi
 * Predicted revenue loss<br>
 * Number of customers to retain<br>
 * Expense spent to retain or replace customer<br>
+
 Finally, I will use what-if simulation to see how the above will change when I change:<br>
 
 * the target NRR<br>
